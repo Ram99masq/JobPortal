@@ -1,0 +1,8 @@
+C:\Users\ramkumarm\source\repos\JobPortal\JobsPortal.API\JobsPortal.DBContext\bin\Debug\netstandard2.0\JobsPortal.DBContext.deps.json
+C:\Users\ramkumarm\source\repos\JobPortal\JobsPortal.API\JobsPortal.DBContext\bin\Debug\netstandard2.0\JobsPortal.DBContext.dll
+C:\Users\ramkumarm\source\repos\JobPortal\JobsPortal.API\JobsPortal.DBContext\bin\Debug\netstandard2.0\JobsPortal.DBContext.pdb
+C:\Users\ramkumarm\source\repos\JobPortal\JobsPortal.API\JobsPortal.DBContext\obj\Debug\netstandard2.0\JobsPortal.DBContext.AssemblyInfoInputs.cache
+C:\Users\ramkumarm\source\repos\JobPortal\JobsPortal.API\JobsPortal.DBContext\obj\Debug\netstandard2.0\JobsPortal.DBContext.AssemblyInfo.cs
+C:\Users\ramkumarm\source\repos\JobPortal\JobsPortal.API\JobsPortal.DBContext\obj\Debug\netstandard2.0\JobsPortal.DBContext.dll
+C:\Users\ramkumarm\source\repos\JobPortal\JobsPortal.API\JobsPortal.DBContext\obj\Debug\netstandard2.0\JobsPortal.DBContext.pdb
+C:\Users\ramkumarm\source\repos\JobPortal\JobsPortal.API\JobsPortal.DBContext\obj\Debug\netstandard2.0\JobsPortal.DBContext.csprojAssemblyReference.cache

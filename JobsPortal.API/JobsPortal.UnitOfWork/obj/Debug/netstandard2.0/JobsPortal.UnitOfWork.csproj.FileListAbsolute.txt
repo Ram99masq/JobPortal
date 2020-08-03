@@ -1,8 +1,0 @@
-C:\Users\ramkumarm\source\repos\JobsPortal.API\JobsPortal.UnitOfWork\bin\Debug\netstandard2.0\JobsPortal.UnitOfWork.deps.json
-C:\Users\ramkumarm\source\repos\JobsPortal.API\JobsPortal.UnitOfWork\bin\Debug\netstandard2.0\JobsPortal.UnitOfWork.dll
-C:\Users\ramkumarm\source\repos\JobsPortal.API\JobsPortal.UnitOfWork\bin\Debug\netstandard2.0\JobsPortal.UnitOfWork.pdb
-C:\Users\ramkumarm\source\repos\JobsPortal.API\JobsPortal.UnitOfWork\obj\Debug\netstandard2.0\JobsPortal.UnitOfWork.csprojAssemblyReference.cache
-C:\Users\ramkumarm\source\repos\JobsPortal.API\JobsPortal.UnitOfWork\obj\Debug\netstandard2.0\JobsPortal.UnitOfWork.AssemblyInfoInputs.cache
-C:\Users\ramkumarm\source\repos\JobsPortal.API\JobsPortal.UnitOfWork\obj\Debug\netstandard2.0\JobsPortal.UnitOfWork.AssemblyInfo.cs
-C:\Users\ramkumarm\source\repos\JobsPortal.API\JobsPortal.UnitOfWork\obj\Debug\netstandard2.0\JobsPortal.UnitOfWork.dll
-C:\Users\ramkumarm\source\repos\JobsPortal.API\JobsPortal.UnitOfWork\obj\Debug\netstandard2.0\JobsPortal.UnitOfWork.pdb
